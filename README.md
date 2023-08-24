@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xAJNGx
-- 👀 I’m interested in Data Science,Analysis,AI and automation.
-- 🌱 I’m currently learning Bachelor of Science in Computer Science and Inforamation Technology.
-- 💞️ I’m looking to collaborate on some real world Data science projects using python and its modules.
+- 👀 I’m interested in Data Science,Analysis,Machine Learning and AI.
+- 🌱 Final Year of my degree in Bachelor of Science in Computer Science and Information Technology.
 - 📫 How to reach me ...
   Email - anuj.gorkhali@gmail.com
   Linkedin - www.linkedin.com/in/anuj-gorkhali-134298260
