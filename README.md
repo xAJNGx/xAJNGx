@@ -1,11 +1,12 @@
-![image](https://github.com/xAJNGx/xAJNGx/assets/128286968/d1a18d4f-a793-4457-9765-1e516fe3b85e)
+![ajng](https://github.com/xAJNGx/xAJNGx/assets/128286968/70ac5f63-08fb-45dd-81f6-a7a619e694a1)
+
 
 <h1 align="center">Hi 👋, I'm Anuj Nanda Gorkhali</h1>
 <h3 align="center">A dedicated explorer and of the data-driven world, always seeking patterns, insights, and stories within the numbers. From wrangling messy datasets to training complex machine learning models, I find joy in every step of the data science journey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xajngx&label=Profile%20views&color=0e75b6&style=flat" alt="xajngx" /> </p>
 
-- 🌱 I’m currently learning **Data Science,Machine learning,Deep Learning,Model Deployment**
+- 🌱 I’m currently learning **Data Science,Machine learning,Deep Learning,Model Evaluation,Model Deployment**
 
 - 💬 Ask me about **python,data analytics,visualization and machine learning models.**
 
