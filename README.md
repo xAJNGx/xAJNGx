@@ -1,4 +1,4 @@
-![ajng](https://github.com/xAJNGx/xAJNGx/assets/128286968/70ac5f63-08fb-45dd-81f6-a7a619e694a1)
+  ![ajng](https://github.com/xAJNGx/xAJNGx/assets/128286968/70ac5f63-08fb-45dd-81f6-a7a619e694a1)
 
 
 <h1 align="center">Hi 👋, I'm Anuj Nanda Gorkhali</h1>
