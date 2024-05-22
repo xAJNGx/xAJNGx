@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science,Machine learning,Deep Learning,Model Evaluation,Model Deployment**
 
-- 💬 Ask me about **python,data analytics,visualization and machine learning models.**
+- 💬 Ask me about **Data Science,Python,Data Analytics, Machine learning and AI.**
 
 - 📫 How to reach me **anuj.gorkhali@gmail.com**
 
